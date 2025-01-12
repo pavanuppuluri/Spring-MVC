@@ -1,4 +1,4 @@
-# Spring MVC Explanation
+# Spring MVC (Model, View, Controlleer)
 
 **Spring MVC (Model-View-Controller)** is a framework within the Spring ecosystem that simplifies building web applications. It is designed around the **MVC architectural pattern**, which separates an application into three main components: **Model**, **View**, and **Controller**. This separation promotes clean code and scalability.
 
